@@ -1,0 +1,26 @@
+.mynav{
+    text-align: center;
+    background-color: #252934;
+    padding: 8px;
+    margin-bottom: 50px;
+}
+
+.mynav a{
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+    margin: 10px 30px 10px 30px;
+}
+
+.mynav a:hover{
+    font-size: 18px;
+    color: #e21b6d;
+    background-color:#dad8d9;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.user{
+	float: right;
+}
+
